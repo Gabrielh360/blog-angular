@@ -1,6 +1,6 @@
 # Blog Angular ✨
 
-### Fiz um Blog estilo anime com Angular, neste blog coloqyei muita coisa, creio que eu utilizei grande parte das coisas que eu aprendi no curso de Angular, acho que o blog ficou maneiro, a unica coisa que eu não consegui fazer foi deixar esse blog responsivo pra varias telas, eu nâo entendo muito bem ainda como fazer. 
+### Fiz um Blog estilo anime com Angular, neste blog coloquei muita coisa, creio que eu utilizei grande parte das coisas que eu aprendi no curso de Angular, acho que o blog ficou maneiro, a unica coisa que eu não consegui fazer foi deixar esse blog responsivo pra varias telas, eu nâo entendo muito bem ainda como fazer. 
 
 ----------
 
