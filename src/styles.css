@@ -4,11 +4,39 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #111111;
   color: white;
   font-family: 'Segoe UI';
 }
 
+
+body {
+  background-color: #cc3a33;
+  min-height: 100%;
+}
+
 a {
   text-decoration: none;
+}
+
+*::-webkit-scrollbar {
+  display: block;
+  width: 9px;
+  height: 9px;
+  overflow: auto;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  background-color: #992b26;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00b5ff;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background:  #0081eb;
+  border: 2px solid black;
 }

@@ -1,0 +1,78 @@
+.container__capa {
+  overflow: hidden;
+  position: absolute;
+}
+
+.capa_background-image {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  color: white;
+  background: url(../../../assets/images/Capa-image.jpg);
+  background-position: 0 20%;
+  background-color: black;
+  background-size: cover;
+  margin: 0;
+}
+
+.capa_buttonPage {
+  position: absolute;
+  left: 70%;
+  bottom: 5%;
+}
+
+.capa_buttonPage > button {
+  position: relative;
+  padding: 10px 20px 10px 20px;
+
+  border: 3px solid black;
+  border-radius: 50px;
+  background: #a43d36;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.capa_buttonPage > button:active {
+  box-shadow: inset 4px -4px 0 #BF0000;
+  font-size: 19px;
+}
+
+.capa_links {
+  list-style: none;
+}
+
+.github i {
+  position: absolute;
+  margin: 0;
+  right: 27%;
+  bottom: 70%;
+  background: #00b5ff;
+  border: 1px solid black;
+  border-radius: 100%;
+  color: #a43d36;
+  font-size: 41px;
+  padding: 1px;
+  list-style: none;
+  z-index: 1;
+}
+
+.linkedin i {
+  position: absolute;
+  margin: 0;
+  right: 23%;
+  bottom: 70%;
+  background: #00b5ff;
+  border-radius: 100%;
+  color: #a43d36;
+  border: 1px solid black;
+  font-size: 20px;
+  padding: 10px;
+  list-style: none;
+  z-index: 1;
+}

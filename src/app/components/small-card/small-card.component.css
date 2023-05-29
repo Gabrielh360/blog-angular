@@ -1,6 +1,10 @@
+
 .container__small-card {
-  width: 750px;
-  margin-bottom: 10px;
+  width: 600px;
+  height: auto;
+  margin-bottom: 15px;
+  background-color: #992b26;
+  z-index: -3;
 }
 
 .container__small-card-content {
@@ -10,6 +14,7 @@
 
 .small-card__image > img {
   width: 200px;
+  height: auto;
   min-width: 200px;
   margin-right: 20px;
 }
@@ -18,6 +23,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-right: 10px;
+  font-size: 10px;
 }
 
 .container__small-card__separator {

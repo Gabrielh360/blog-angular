@@ -1,9 +1,44 @@
 <div class="container__menu-bar">
-  <ul>
-    <li><a href="#">Linkedin</a></li>
-    <li><span>•</span></li>
-    <li><a href="#">GitHub</a></li>
-    <li><span>•</span></li>
-    <li><a href="#">YouTube</a></li>
-  </ul>
+  <input type="checkbox" id="btn" hidden>
+  <label for="btn" class="menu-bar_btn">
+    <i class='bx bx-menu'></i>
+  </label>
+
+  <Nav id="menu-bar">
+
+    <div class="menu-bar_details">
+      <span class="menu-bar_logoName">Anime Blog</span>
+    </div>
+
+    <div class="menu-bar_itens">
+      <ul>
+
+        <li><a [routerLink]="['/inicio']">
+          <i class='bx bxs-home' ></i>
+          <span class="menu-bar_logoName">Inicio</span>
+          </a>
+        </li>
+
+        <li><a href="">
+          <i class='bx bxs-news' ></i>
+          <span class="menu-bar_logoName">Noticias Anime</span>
+          </a>
+        </li>
+
+        <li><a href="https://github.com/Gabrielh360" target="_blank">
+          <i class='bx bxl-github'></i>
+          <span class="menu-bar_logoName">Github</span>
+          </a>
+        </li>
+
+        <li><a href="https://www.linkedin.com/in/gabriel-henrique-1a5193213/" target="_blank">
+          <i class='bx bxl-linkedin-square' ></i>
+          <span class="menu-bar_logoName">Linkedin</span>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+
+  </Nav>
 </div>

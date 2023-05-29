@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+declare function menuBar():void;
+import { Component, OnInit, Renderer2, Inject, Input } from '@angular/core';
 
 @Component({
   selector: 'app-menu-bar',
@@ -7,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuBarComponent implements OnInit {
 
-  constructor() { }
+  constructor() {}
 
   ngOnInit(): void {
-  }
+}
 
 }

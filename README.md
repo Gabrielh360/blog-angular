@@ -1,27 +1,32 @@
-# AngularBlog
+# Blog Angular ✨
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+### Fiz um Blog estilo anime com Angular, neste blog coloqyei muita coisa, creio que eu utilizei grande parte das coisas que eu aprendi no curso de Angular, acho que o blog ficou maneiro, a unica coisa que eu não consegui fazer foi deixar esse blog responsivo pra varias telas, eu nâo entendo muito bem ainda como fazer. 
 
-## Development server
+----------
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+ ## Links: 🔗
+### Meu GitHub: https://github.com/Gabrielh360
 
-## Code scaffolding
+### Meu Likedin: https://www.linkedin.com/in/gabriel-henrique-1a5193213/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+----------
 
-## Build
+## Outros Links: 🔗
+### GitHub do Meu Irmão: https://github.com/lcshenry 
+Ele também faz uns projetos incriveis, entâo dá uma olhada lá;
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+### O GitHumb da DIO:https://github.com/digitalinnovationone
+A platafoma na qual eu estudo, se você olhar o GitHub deles, você vai encontrar muitos projetos legais,
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+----------
+## Vejá Como Ficou o Meu Projeto:
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![alt](./src/assets/preview/Image_1.png)
+![alt](./src/assets/preview/Image_2.png)
+![alt](./src/assets/preview/Image_3.png)
+![alt](./src/assets/preview/Image_4.png)
+![alt](./src/assets/preview/Image_5.png)
+![alt](./src/assets/preview/Image_6.png)
+![alt](./src/assets/preview/Image_7.png)
+![alt](./src/assets/preview/Image_8.png)

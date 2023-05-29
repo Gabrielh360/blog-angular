@@ -1,10 +1,174 @@
-
-.container__menu-bar > ul {
-  display: flex;
-  flex-direction: row;
+.container__menu-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 270px;
+  z-index: 100;
+  transition: all 0.5s ease;
 }
 
-.container__menu-bar > ul > li {
-  margin-right: 20px;
+input[type="checkbox"] {
+  display: none;
+}
+
+.container__menu-bar #menu-bar {
+  position: fixed;
+  height: 100%;
+  width: 270px;
+  background: #ac302a;
+  overflow: hidden;
+  left: -270px;
+  transition: all 0.3s ease;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+}
+
+
+.container__menu-bar .menu-bar_btn {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  height: 45px;
+  width: 45px;
+  z-index: 999;
+  background: #ac302a;
+  text-align: center;
+  line-height: 45px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 23px;
+  border: 1px solid black;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+#btn:checked ~ #menu-bar {
+  left: 0;
+  box-shadow: 20px 20px 50px black;
+}
+
+#btn:checked ~ .menu-bar_btn {
+  left: 260px;
+
+}
+
+#btn:checked ~ .menu-bar_btn  i:before {
+  content: "✖";
+}
+
+.container__menu-bar .menu-bar_itens i {
+  left: 200px;
+}
+
+#menu-bar .menu-bar_details {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 65px;
+  background: #992b26;
+  text-align: center;
+}
+
+#menu-bar .menu-bar_itens {
+  position: relative;
+  height: 100%;
+  width: 100%;
   list-style: none;
+  box-shadow: 20px 20px 50px black;
+}
+
+.container__menu-bar.close{
+  width: 78px;
+}
+.container__menu-bar .menu-bar_details{
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.container__menu-bar .menu-bar_details i{
+  font-size: 30px;
+  color: #fff;
+  height: 50px;
+  min-width: 78px;
+  text-align: center;
+  line-height: 50px;
+}
+.container__menu-bar .menu-bar_details .menu-bar_logoName{
+  font-size: 22px;
+  color: #fff;
+  align-items: center;
+  font-weight: bold;
+  transition: 0.3s ease;
+  margin: auto;
+  transition-delay: 0.1s;
+}
+
+.container__menu-bar .menu-bar_itens{
+  height: 100%;
+  padding: 30px 0 150px 0;
+  overflow: auto;
+}
+
+.container__menu-bar .menu-bar_itens li{
+  position: relative;
+  list-style: none;
+  transition: all 0.4s ease;
+}
+.container__menu-bar .menu-bar_itens li:hover{
+  background: #bd3730;
+}
+.container__menu-bar .menu-bar_itens li .menu-bar_iconLink{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container__menu-bar .menu-bar_itens li i{
+  height: 50px;
+  min-width: 78px;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.container__menu-bar .menu-bar_itens li a{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.container__menu-bar .menu-bar_itens li a .menu-bar_logoName{
+  font-size: 18px;
+  font-family: Segoe UI;
+  font-weight: bold;
+  color: #fff;
+  transition: all 0.4s ease;
+}
+
+.container__menu-bar .menu-bar_itens li .menu-bar_subMenu{
+  padding: 6px 6px 14px 80px;
+  margin-top: -10px;
+  background: #333;
+  display: none;
+}
+.container__menu-bar .menu-bar_itens li.showMenu .menu-bar_subMenu{
+  display: block;
+}
+.container__menu-bar .menu-bar_itens li .menu-bar_subMenu a{
+  color: #fff;
+  font-size: 15px;
+  padding: 5px 0;
+  white-space: nowrap;
+  opacity: 0.6;
+  transition: all 0.3s ease;
+}
+.container__menu-bar .menu-bar_itens li .menu-bar_subMenu a:hover{
+  opacity: 1;
+}
+
+.container__menu-bar .menu-bar_itens li .menu-bar_subMenu .menu-bar_logoName{
+  display: none;
 }

@@ -1,0 +1,72 @@
+export const dataContent = [
+  {
+    "id": "confirmado!-a-3a-temporada-de-re:zero-é-anunciada",
+    "title": "CONFIRMADO! A 3ª Temporada de Re:Zero é Anunciada",
+    "description": "",
+    "imageCover": "https://cdn.donmai.us/original/cb/98/cb983b85880bf3963110c1d46151d6e1.jpg",
+    "Paragrafo_1": "A terceira temporada do Re:Zero foi confirmada no dia 25 de março (no fuso-horário do Japão) durante a realização do Anime Japan 2023, que acontece neste no Tokyo Big Sight, o Centro de Exibição Internacional de Tóquio.",
+    "Paragrafo_2": "O primeiro teaser do anime e o visual oficial foram divulgados durante o painel da empresa. Detalhes sobre a data de lançamento não foram divulgados. Enquanto Re:Zero  3ª temporada mais uma vez trará os fãs de volta ao mundo mágico que ajudou a tornar o isekai um sucesso, o ambiente leve esconde um submundo decadente como foi visto na série até agora.",
+    "Paragrafo_3": "Felizmente, a próxima terceira temporada terá muito material para escolher, já que a série de light novels, a série de romances e o mangá forneceram à história de Natsuki algumas batidas importantes ao longo dos anos. Com o novo trailer e confirmação, o isekai não revelou exatamente quando os fãs podem esperar quando que a 3ª temporada chegue, embora o retorno do anime Re:Zero esteja sendo um retorno muito aguardado.",
+    "Paragrafo_4": "",
+    "Titulo_Paragrafo_1": "",
+    "Titulo_Paragrafo_2": "",
+    "Titulo_Paragrafo_3": "",
+    "Titulo_Paragrafo_4": ""
+  },
+  {
+    "id": 'o-último-episódio-da-3a-temporada-de-damon-slayer-pode-ter-uma-hora-de-duração',
+    "title": "O Último episódio da 3ª temporada de Damon Slayer pode ter uma hora de duração",
+    "description": "",
+    "imageCover": "https://s2.glbimg.com/rNBzrE-nH_wN8VNyosDEmRKetB0=/0x0:1504x846/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/g/5/FHFijPTKiptnTxQfe6sw/d49c7c59b2b256d386594ce313b732c61665808144-main.jpg",
+    "Paragrafo_1": "De acordo com o novo vazamento de Demon Slayer, o último episódio do arco da Vila dos Ferreiros terá uma hora de duração para a temporada fechar com um grande final. Como a fonte vem de um vazamento, não tem garantias de que a notícia seja verdadeira. Porém, o último episódio da 2ª temporada também durou cerca de uma hora, então tem grandes chances que essa notícia seja oficial também.",
+    "Paragrafo_2": "A adaptação do arco da Vila dos Ferreiros no anime terá um total de 11 episódios. Então o último episódio da 3ª temporada vai estrear no final de junho.",
+    "Paragrafo_3": "",
+    "Paragrafo_4": "",
+    "Titulo_Paragrafo_1": "",
+    "Titulo_Paragrafo_2": "",
+    "Titulo_Paragrafo_3": "",
+    "Titulo_Paragrafo_4": ""
+  },
+  {
+    "id": 'foi-anunciado!-a-2a-Temporada-e-o-filme-de-spy-x-family',
+    "title": "Foi Anunciado! a 2ª Temporada e o Filme de Spy x Family",
+    "description": "",
+    "imageCover": "https://cdn.ome.lt/q4bFjtoSWRK_ik5lA5q1GUpUcUU=/1200x630/smart/extras/conteudos/spy-x-family_b686TAs.jpg",
+    "Paragrafo_1": "Foram anunciadas durante a AnimeJapan 2023 as datas de estreia tanto da segunda temporada quanto do filme de Spy x Family. A série volta a ser exibida em outubro e o longa-metragem chega aos cinemas japoneses no dia 22 de dezembro.",
+    "Paragrafo_2": "O filme será um trabalho inteiramente novo com uma história original feita pelo criador do mangá original: Tatsuya Endō, que também é creditado com os designs de personagens originais e também está supervisionando o longa. A direção está nas mãos de Takashi Katagiri.",
+    "Paragrafo_3": "Enquanto que a segunda temporada continua sob direção de Kazuhiro Furuhashi e Takahiro Harada também retorna como assistente de direção. Ichiro Okouchi é o novo supervisor de roteiro da série, substituindo Furuhashi, enquanto Daishiro Tanimura e Ayumu Hisao atuarão como vice-supervisores de roteiro. A produção é do CloverWorks, juntamente com o WIT Studio. ",
+    "Paragrafo_4": "",
+    "Titulo_Paragrafo_1": "",
+    "Titulo_Paragrafo_2": "",
+    "Titulo_Paragrafo_3": "",
+    "Titulo_Paragrafo_4": ""
+  },
+  {
+    "id": 'foi-anunciado!-a-2a-Temporada-e-o-filme-de-spy-x-family',
+    "title": "Foi Anunciado! a 2ª Temporada e o Filme de Spy x Family",
+    "description": "Foram anunciadas durante a AnimeJapan 2023 as datas de estreia tanto da segunda temporada quanto do filme de Spy x Family. A série volta a ser exibida em outubro e o longa-metragem chega aos cinemas japoneses no dia 22 de dezembro.",
+    "imageCover": "https://cdn.ome.lt/q4bFjtoSWRK_ik5lA5q1GUpUcUU=/1200x630/smart/extras/conteudos/spy-x-family_b686TAs.jpg",
+    "Paragrafo_1": "",
+    "Paragrafo_2": "",
+    "Paragrafo_3": "",
+    "Paragrafo_4": "",
+    "Titulo_Paragrafo_1": "",
+    "Titulo_Paragrafo_2": "",
+    "Titulo_Paragrafo_3": "",
+    "Titulo_Paragrafo_4": ""
+  },
+  {
+  "id": "aprenda-a-fazer-sua-propria-senku-cola-de-dr-stone",
+  "title": "Aprenda a fazer sua propria Senku-Cola de Dr-Stone",
+  "description": "",
+  "imageCover": "https://1.bp.blogspot.com/-DZwNemcTOyM/Xl5fLeioK3I/AAAAAAAAzbo/Tc9-ojJJ_bse_4YAMacj-zNvD5MSv1PIwCLcBGAsYHQ/s1600/Ci%25C3%25AAncia%2Bde%2BDr%2BStone%2BReceira%2Bdo%2Brefrigerante%2Bde%2Bcola.jpg",
+  "Paragrafo_1": "Água Com Gás (1 Garrafa), Mel (cerca de 4-5 colheres de sopa), Coentro, 1 Limão/lima.",
+  "Paragrafo_2": "O primeiro passo para fazer Senku Cola é raspar o limão, As raspas de limão são basicamente a superfície externa colorida da casca, Isso geralmente é usado para adicionar um sabor picante concentrado às receitas, A raspagem pode ser feita usando um zester ou um descascador, Depois de terminar de raspar, reserve o limão, Rasgue as folhas de coentros e esmague-as, Você pode fazer isso usando um copo ou em uma pequena argamassa, O motivo é obter as folhas de coentro bem trituradas, Agora esprema o limão e adicione o sumo aos coentros esmagados juntamente com a raspa da lima, Novamente continue com o esmagamento até que os ingredientes formem uma pasta fina, Como diz Senku, essa pasta vai dar à nossa bebida caseira o cheirinho de Cola, A quantidade de sumo de lima a adicionar depende do seu gosto, Diríamos que espremer metade do limão deve ser mais do que suficiente, Agora coe a mistura que você criou e mantenha-a separada.",
+  "Paragrafo_3": "Leve o mel para uma panela (bem, uma xícara pequena também deve ser suficiente) e aqueça até começar a ferver, Agora ferva as chamas e cozinhe até o mel caramelizar (até ficar marrom, você deve sentir um leve cheiro de queimado quando o mel caramelizar), Idealmente, você deixaria o mel por um ou dois minutos no máximo, O cheiro levemente queimado é idealmente a sua deixa para parar, Agora misture a mistura de coentro e limão coado e o mel caramelizado para fazer a calda de cola, Este xarope fornece essencialmente o sabor e a essência da cola à sua bebida, A mistura deve ser feita logo após a caramelização do mel, caso contrário o mel pode endurecer (ou engrossar) novamente.",
+  "Paragrafo_4": "SAgora, na etapa final, pegue uma pequena quantidade do xarope de cola que você acabou de preparar e misture a água com gás para preparar sua cola caseira, Embora a quantidade exata da mistura não tenha sido revelada no anime (porque a receita da coca-cola é um segredo há muito tempo?), por tentativa e erro (e fontes online) descobrimos que o ideal seria adicionar cerca de 200 ml de água carbonatada para 3-4 colheres de sopa de xarope de cola, Eis que você fez sua primeira garrafa de Senku Cola, O sabor da cola depende do equilíbrio certo dos ingredientes... pode levar de 2 a 3 tentativas até que você consiga encontrar o sabor que mais lhe agrada.",
+  "Titulo_Paragrafo_1": "INGREDIENTES",
+  "Titulo_Paragrafo_2": "COMO FAZER SENKU COLA",
+  "Titulo_Paragrafo_3": "",
+  "Titulo_Paragrafo_4": ""
+  }
+]

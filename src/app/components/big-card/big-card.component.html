@@ -1,7 +1,7 @@
 <div class="container__big-card">
   <div class="big-card__image">
     <img
-    src="https://cdn.donmai.us/original/cb/98/cb983b85880bf3963110c1d46151d6e1.jpg"
+    src="{{ imageCover }}"
     alt="Imagem anim Re:Zero"
     height="225px"
     srcset=""
@@ -9,13 +9,13 @@
   </div>
 
   <div class="big-card__title">
-    <h1><a href="#">CONFIRMADO! A 3ª Temporada de Re:Zero é Anunciada</a></h1>
+    <h1><a [routerLink]="['noticias', Id]">{{ cardTitle }}</a></h1>
   </div>
 
   <div class="big-card__description">
     <p>
-      <a href="#">
-      A terceira temporada do Re:Zero foi confirmada no dia 25 de março (no fuso-horário do Japão) durante a realização do Anime Japan 2023, que acontece neste no Tokyo Big Sight, o Centro de Exibição Internacional de Tóquio.
+      <a [routerLink]="['noticias', Id]">
+        {{ cardDescription }}
       </a>
     </p>
   </div>
